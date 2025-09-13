@@ -25,3 +25,15 @@ Unlike standard vulnerability scanners, this tool:
 
 ```bash
 pip install requests
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+**Usage**
+
+python detector.py
+
+Enter a URL like:https://example.com
